@@ -18,7 +18,7 @@ What I am covering this tutorial
   7. Putting it all together
 
 ## 0. An end-to-end Scikit-learn workflow
-"""
+## This entails the import of the packages that would be used
 
 import numpy as np
 
